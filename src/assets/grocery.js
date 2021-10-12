@@ -2,26 +2,30 @@ export const inventory = [
     {
         "name": "small",
         "base": "flatBread",
+        "topping": "tomato",
         "price": 5,
-        "category": ["Dairy"]
+        "category": ["pizza"]
     },
     {
         "name": "medium",
         "base": "thinChrust",
+        "topping": "garlic",
         "price": 10,
-        "category": ["Snack"]
+        "category": ["pizza"]
     },
     {
         "name": "large",
         "base": "Lamao",
+        "topping": "pineapple",
         "price": 15,
-        "category": ["Dairy"]
+        "category": ["pizza"]
     },
     {
         "name": "Extra Large",
         "base": "CheesyBite",
+        "topping": "capsicum",
         "price": 20,
-        "category": ["Dairy"]
+        "category": ["pizza"]
     },
     
 ];
